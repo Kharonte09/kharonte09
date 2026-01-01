@@ -17,6 +17,5 @@ Analista de ciberseguridad orientado al **Blue Team**.
 ## 📡 Contacto
 
 🔗 Encuéntrame en:
-[LinkedIn](https://www.linkedin.com/in/kharonte) | [X/Twitter](https://x.com/Kharonte09) | [Linktree](https://linktr.ee/kharonte9)
-- 📨 **kharonte9@protonmail.com**
+ [Linktree](https://linktr.ee/kharonte9) | 📨:**kharonte9@protonmail.com**
 
