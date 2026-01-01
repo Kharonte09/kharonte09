@@ -1,16 +1,22 @@
-## Hi there 👋
+# ☠️ Hola, soy Kharonte 👋 
+Analista de ciberseguridad | Blue Team 
 
-<!--
-**Kharonte09/kharonte09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👤 ¿Quién soy?
+Analista de ciberseguridad orientado al **Blue Team**.  
 
-Here are some ideas to get you started:
+📄 Certificaciones:
+- Linux Essentials (LPI)
+- BTL1 (Security Blue Team)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  *En curso
+
+  ## ⚙️ Proyectos activos
+  - 🖥️ Construcción de un **HomeLab** para prácticas y pruebas defensivas  
+
+
+## 📡 Contacto
+
+🔗 Encuéntrame en:
+[LinkedIn](https://www.linkedin.com/in/kharonte) | [X/Twitter](https://x.com/Kharonte09) | [Linktree](https://linktr.ee/kharonte9)
+- 📨 **kharonte9@protonmail.com**
+
