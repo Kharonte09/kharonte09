@@ -11,15 +11,6 @@ Detection, analysis and incident response. I spend my days between logs and aler
 
 ---
 
-## 🛡️ Focus
-
-- **Detection Engineering** — rules, tuning, reducing the noise
-- **Incident Response** — triage, containment, post-mortems
-- **Log Analysis & Threat Hunting** — SIEM queries, anomaly chasing
-- **Digital Forensics** — artifacts, timelines, evidence handling
-
----
-
 ## 🧰 Toolbox
 
 ![Linux](https://img.shields.io/badge/Linux-000?style=flat-square&logo=linux&logoColor=white)
@@ -48,12 +39,10 @@ I publish a weekly column on security — the long-form version of what doesn't 
 
 ---
 
-## 📫 Reach me
+## 📫 Contacto
 
-[![Twitter](https://img.shields.io/badge/@Kharonte-000?style=flat-square&logo=x&logoColor=white)](#)
-[![Blog](https://img.shields.io/badge/Blog-000?style=flat-square&logo=hashnode&logoColor=white)](#)
-
----
+[![Twitter](https://img.shields.io/badge/@Kharonte-000?style=flat-square&logo=x&logoColor=white)](https://x.com/Kharonte09)
+[![Blog](https://img.shields.io/badge/Blog-000?style=flat-square&logo=hashnode&logoColor=white)](https://kharonte.vercel.app/)
 
 > There's always another secret
 
