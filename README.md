@@ -2,10 +2,6 @@
 
 **Analista de Seguridad · Blue Team**
 
-Analista en SOC. Construyo herramientas pequeñas para que la seguridad sea accesible a
-quien no se dedica a esto, y escribo sobre lo que me voy encontrando por el camino.
-
-
 ---
 
 ## 🔧 Proyectos
